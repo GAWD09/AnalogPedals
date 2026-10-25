@@ -1,5 +1,9 @@
 # AnalogPedals
 
+<p align="center">
+  <img src="assets/banner.png" alt="AnalogPedals — analog keyboard racing pedals for the virtual Xbox 360 pad" width="1000">
+</p>
+
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
