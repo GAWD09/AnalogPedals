@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+
+# Logs & local captures (personal/debug state)
+*.log
+Details
+capture_win68.csv
+*.csv
+
+# Learned key names (auto-regenerates from use)
+keymap.json
+
+# Research copies derived from the Aether-HE driver (kept local only,
+# never published): see README acknowledgements for the attribution.
+ref_*
+
+# Experimentation artifacts not part of the published app
+pedals_ui_fixed.py
+analogpedals.c
+build_pyd.cmd
+
+# Local leftovers
+Thumbs.db
+.DS_Store
