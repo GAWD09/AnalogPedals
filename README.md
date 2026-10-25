@@ -17,6 +17,12 @@ left stick — and the gamepad feels how far the key is actually pressed:
 Tested end-to-end on Windows 11 with ViGEmBus: full presses → RT/LT = 255,
 half presses → ~120, release → 0.
 
+## Screenshot
+
+<p align="center">
+  <img src="assets/screenshot-ui.png" alt="The AnalogPedals Tkinter UI: gamepad mapping table, live trigger telemetry, stick radars and response-curve editors" width="1000">
+</p>
+
 ## Features
 
 - **Any key → any control**: two triggers, both sticks (four-axis pairs),
